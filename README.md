@@ -53,7 +53,7 @@ python-module2-mobile-internet/
 1. Установите Python 3.
 2. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/ВАШ_ЛОГИН/python-module2-mobile-internet.git
+   git clone https://github.com/Alexsander51158/python-module2
    ```
 3. Перейдите в папку проекта:
    ```bash
